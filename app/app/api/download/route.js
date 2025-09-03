@@ -6,7 +6,7 @@ export async function POST(req) {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": process.env.RAPIDAPI_KEY,
+      "X-RapidAPI-Key": process.env.RAPIDAPI_KEY=b16c6c00edmsh8b36e5199694e8bp1941c5jsnf9230ac847b1,
       "X-RapidAPI-Host": "facebook-video-download1.p.rapidapi.com"
     }
   };
